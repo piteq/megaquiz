@@ -7,7 +7,6 @@
             "email": "matt@getinstance.com"
         }
     ],  
-    "license": "Apache-2.0",
     "require-dev": {
         "phpunit/phpunit": "*"
     },
